@@ -107,6 +107,7 @@ vegetables.apricot, persimmon,
 peach, melon.</dd>
 
 <dt>vitamin D</dt>
+<dd></dd>Regulation of the metabolism of Calcium and phosphorous. Fish, egg yolk, milk and dairy products</dd>
 </dl>
 
 </body>
